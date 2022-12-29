@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home Screen"
+        android:id="@+id/m1"
+        />
+    <item
+        android:title="Image Captioning"
+        android:id="@+id/m2"
+        />
+    <item
+        android:title="OCR Detection"
+        android:id="@+id/m3"
+        />
+    <item
+        android:title="Currency Detection"
+        android:id="@+id/m4"
+        />
+    <item
+        android:title="Color Detection"
+        android:id="@+id/m5"
+        />
+</menu>
